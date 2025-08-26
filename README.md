@@ -1,4 +1,4 @@
-README.md
+
 # JavaScript Assignment Project
 
 This project is a simple web application created as part of a JavaScript assignment.  
@@ -29,7 +29,7 @@ It demonstrates the use of **variables, conditionals, functions, loops, and DOM 
 ## 🚀 How to Run
 1. Download or clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-assignment.git
+   git clone https://github.com/Chebbyyy/javascript-assignment/tree/main
 
 
 Open index.html in your browser.
